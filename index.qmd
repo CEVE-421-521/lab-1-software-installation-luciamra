@@ -1,7 +1,7 @@
 ---
 title: "Lab 1: Software Installation"
 subtitle: "Julia, Quarto, GitHub"
-author: "CEVE 421/521" # TODO: add your name here
+author: "Lucia Romero-Alston lmr12"
 jupyter: julia-1.10
 date: 2024-01-12
 week: 1
@@ -19,11 +19,11 @@ format:
             - margin=1in  
         number-sections: true
         code-line-numbers: true
-    docx: 
-        toc: true
-        fig-format: png
-        number-sections: true
-        code-line-numbers: true
+    #docx: 
+        #toc: true
+        #fig-format: png
+        #number-sections: true
+        #code-line-numbers: true
 
 date-format: "ddd., MMM. D"
 ---
